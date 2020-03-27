@@ -1,0 +1,16 @@
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\PacketDotNet.dll
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\SharpPcap.dll
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\PacketDotNet.xml
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\SharpPcap.xml
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\SharpPcap.dll.config
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\CSArp.csprojAssemblyReference.cache
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\CSArp.Form1.resources
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\CSArp.csproj.GenerateResource.cache
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\CSArp.csproj.CoreCompileInputs.cache
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\CSArp.csproj.CopyComplete
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\ByeWifi.exe.config
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\ByeWifi.exe
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\bin\Debug\ByeWifi.pdb
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\ByeWifi.Properties.Resources.resources
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\ByeWifi.exe
+C:\Users\aleix\Downloads\DeuresAvui\CSArp-Netcut-master\CSArp\obj\Debug\ByeWifi.pdb
